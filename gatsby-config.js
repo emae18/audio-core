@@ -1,5 +1,6 @@
 module.exports = {
   siteMetadata: {
+    siteUrl: "",
     title: "AudioCORE",
   },
   plugins: [
